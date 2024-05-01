@@ -19,7 +19,7 @@ const HeroContent = () => {
                 className='Welcome-box py-[8x] px-[7px] border border-[#7042f88b] opacity-[0.9]'
             >
                 <SparklesIcon className='text-[#b49bff] mr-[10px] h-5 w-5' />
-                <h1 className='Welcome-text text-[13px]'>Jay's FullStack Developer Portfolio</h1>
+                <h1 className='Welcome-text text-[13px]'>Jays FullStack Developer Portfolio</h1>
             </motion.div>
 
             <motion.div
@@ -37,7 +37,7 @@ const HeroContent = () => {
             variants={slideInFromLeft(0.8)}
             className='text-lg text-gray-400 my-5 maw-x-[600px]'
             >
-                I'm a Full Stack Developer with experience in Website, Mobile, and Software Development. Check out my projects! 
+                Im a Full Stack Developer with experience in Website, Mobile, and Software Development. Check out my projects! 
             </motion.p>
             <motion.a
             variants={slideInFromLeft(1)}
